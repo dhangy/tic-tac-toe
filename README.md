@@ -1,3 +1,5 @@
+This is the first react project I made. Worked on it in the beginning of December 2018
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
